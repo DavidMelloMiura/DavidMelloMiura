@@ -7,8 +7,9 @@
 </div>
 
 <h2 dir="auto"></h2>
+  
 
-<div style="display:flex; flex-direction: row; background-color: white; padding: 5px; border-radius:3px">
+<div style="display:flex; flex-direction: row; justify-content: space-between; border: 1px solid black; border-radius:3px">
 
 <img align="center" alt="David-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%"/>
 <img align="center" alt="David-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"/>
@@ -21,11 +22,15 @@
 <img align="center" alt="David-WordPress" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="max-width: 100%;"/>
 <img align="center" alt="David-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="max-width: 100%;"/>
 <img align="center" alt="David-Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"/>
-
 </div>
-
-<h2 dir="auto"></h2>
 </a>
+  
 
-<a href="https://github.com/DavidMelloMiura">
-<img align="center" alt="David-LinkedIn" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;"/></a>
+<div style="display:flex; flex-direction: row">
+<a href="https://www.linkedin.com/in/david-miura">
+<img align="center" alt="David-LinkedIn" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;"/></a>
+
+
+<a href="https://www.instagram.com/davidmmiura/">
+<img align="center" alt="David-LinkedIn" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
+</div>
