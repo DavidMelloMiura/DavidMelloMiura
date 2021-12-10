@@ -1,16 +1,32 @@
-### Olá Mundo, Meu nome é David 👋
+<h2>Olá! Eu sou < David Miura /> </h2>
 
-<!--
-**DavidMelloMiura/DavidMelloMiura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/DavidMelloMiura">
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidMelloMiura&show_icons=true&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMelloMiura&layout=compact&amp;theme=tokyonight">
+</div>
 
-Here are some ideas to get you started:
+<h2 dir="auto"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:flex; flex-direction: row; background-color: white; padding: 5px; border-radius:3px">
+
+<img align="center" alt="David-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%"/>
+<img align="center" alt="David-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-WordPress" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="max-width: 100%;"/>
+<img align="center" alt="David-Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"/>
+
+</div>
+
+<h2 dir="auto"></h2>
+</a>
+
+<a href="https://github.com/DavidMelloMiura">
+<img align="center" alt="David-LinkedIn" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;"/></a>
+
