@@ -2,8 +2,8 @@
 
 <a href="https://github.com/DavidMelloMiura">
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidMelloMiura&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMelloMiura&layout=compact&amp;theme=tokyonight">
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DavidMelloMiura&show_icons=true&theme=tokyonight">
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMelloMiura&layout=compact&amp;theme=tokyonight">
 </div>
 
 <h2 dir="auto"></h2>
@@ -29,4 +29,3 @@
 
 <a href="https://github.com/DavidMelloMiura">
 <img align="center" alt="David-LinkedIn" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;"/></a>
-
