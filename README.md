@@ -1,7 +1,9 @@
 <h2>Olá! Eu sou < David Miura /> </h2>
 
+<div style="width:100px">
 <img src="https://github.com/DavidMelloMiura/DavidMelloMiura/blob/main/Banner_GitHub.jpg">
-
+</div>
+  
 <a href="https://github.com/DavidMelloMiura">
 <div>
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=DavidMelloMiura&show_icons=true&theme=tokyonight">
