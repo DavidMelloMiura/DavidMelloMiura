@@ -1,6 +1,13 @@
-<h2>Olá! Eu sou < David Miura /> </h2>
+<h3>System.out.println("Hello World");
+<img src="https://github.com/DavidMelloMiura/DavidMelloMiura/blob/main/wave.gif" width="30px">
+<img src="https://github.com/DavidMelloMiura/DavidMelloMiura/blob/main/earth.gif" width="40px">
+</p>
+</h2>
 
-<img src="https://github.com/DavidMelloMiura/DavidMelloMiura/blob/main/Banner_GitHub.jpg" width=820px>
+
+<img src="https://github.com/DavidMelloMiura/DavidMelloMiura/blob/main/Banner_GitHub.jpg" width=817px>
+
+
   
 <a href="https://github.com/DavidMelloMiura">
 <div>
