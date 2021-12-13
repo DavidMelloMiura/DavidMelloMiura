@@ -35,11 +35,11 @@
 </a>
   
 
-<div style="display:flex; flex-direction: row">
-<a href="https://www.linkedin.com/in/david-miura" target="_blank">
-<img align="center" alt="David-LinkedIn" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;"/></a>
+<div style="display:flex; flex-direction: row";>
+<a href="https://www.linkedin.com/in/david-miura " target="_blank">
+<img align="center" alt="David-LinkedIn" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100%;"/></a> <span style="color: white"> - </span>
 
-
+  
 <a href="https://www.instagram.com/davidmmiura" target="_blank">
 <img align="center" alt="David-LinkedIn" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
 </div>
