@@ -4,8 +4,9 @@
 </p>
 </h2>
 
-
-<img src="https://github.com/DavidMelloMiura/DavidMelloMiura/blob/main/Banner_GitHub.jpg" width=817px>
+<div style="border-radius:10px;">
+<img src="https://github.com/DavidMelloMiura/DavidMelloMiura/blob/main/banner-github.png" width=817px>
+</div>
 
 
   
